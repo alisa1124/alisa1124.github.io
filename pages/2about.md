@@ -5,7 +5,7 @@ permalink: /about/
 icon: glyphicon-heart
 ---
 
-### 关于我
+<!-- ### 关于我
 
 > 2015年我将步入找工作的大潮，希望做一个前端开发工程师。   
 
@@ -19,7 +19,6 @@ icon: glyphicon-heart
 
 还有，学习是一个非常愉快的过程。共同加油！   
 
----
 
 ### 联系我
 
@@ -30,7 +29,6 @@ icon: glyphicon-heart
 * 豆瓣：[Gaohaoyang](http://www.douban.com/people/42525035/)
 * 豆瓣音乐人：[浩阳的小站](http://site.douban.com/haoyangaiyinyue/)
 
----
 
 ### 关于本站   
 
@@ -49,7 +47,6 @@ icon: glyphicon-heart
 
 通过搭建这个静态博客，学到最多的就是 Git 的语法了，现在对 Git 的操作越来越熟练了。  
 
----
 
 #### 友情链接
 
@@ -57,6 +54,5 @@ icon: glyphicon-heart
 
 Comment below to exchange link with me.  
 
----
 
-只要有空一定会更新的！
+只要有空一定会更新的！ -->
