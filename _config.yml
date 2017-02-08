@@ -2,7 +2,7 @@
 title: 橙子blog
 email: 245830752@qq.com
 description: 橙子的博客 前端爱好者
-favicon: favicon.ico
+logo: favicon.ico
 
 # > # this means to ignore newlines until "baseurl:"
 #   Write an awesome description for your new site here. You can edit this
@@ -17,6 +17,7 @@ permalink: /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
+github: alisa1124
 
 # highlight
 # 本地用rouge, github上用pygments
